@@ -1,6 +1,8 @@
 public class Heart {
     // PROPERTIES
     private String color;
+    private String message;
+
     //Add remaining heart properties here...
 
 
